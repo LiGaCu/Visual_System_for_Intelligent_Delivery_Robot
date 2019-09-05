@@ -1,0 +1,9 @@
+﻿  main.cpp
+e:\毕业设计\草稿工程\for final essay\controller\controller\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码
+  16 of 1327 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Controller.vcxproj -> E:\毕业设计\草稿工程\For Final Essay\Controller\x64\Release\Controller.exe
+  Controller.vcxproj -> E:\毕业设计\草稿工程\For Final Essay\Controller\x64\Release\Controller.pdb (Full PDB)
