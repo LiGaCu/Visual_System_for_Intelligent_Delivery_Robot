@@ -1,4 +1,4 @@
-# Visual_system_for_intelligent_delivery_robot_Git
+# Visual_system_for_intelligent_delivery_robot
  My thesis in Intelligent Automobile Innovation Lab, Chongqing University, China, where I worked as an undergraduate research assistant.
  
 The whole system consists of three parts: Car, Sercer and Controller.
