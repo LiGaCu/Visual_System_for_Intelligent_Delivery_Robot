@@ -7,5 +7,7 @@ The car was based on Robot Operation System, on Linux. The server was built on L
 All codes are written in C++. 
 
 Here is the potrait of the test car (Lidar was not used by me):
+
 ![image](https://github.com/LiGaCu/Visual_System_for_Intelligent_Delivery_Robot/raw/master/Test Car's Portrait.jpg)
+
 Test was going under 4G network.
